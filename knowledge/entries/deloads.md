@@ -1,0 +1,11 @@
+# Deloads and fatigue management
+
+Expert consensus: Coaches describe deloading as a period of lower training stress and support individualizing its timing and content. This is consensus, not a trial proving a particular schedule improves outcomes. [bell-2023-deload]
+
+Complete-rest trial: In 39 young trained adults, one week without lifting during a nine-week program did not improve lower-body hypertrophy, power, or endurance; continuous training favored strength. This tests a break from lifting, not every form of deload. [coleman-2024-deload]
+
+Active-deload trial: In 19 untrained young men, limbs were assigned to continuous training or reduced sets and frequency in weeks 4 and 8 of an eight-week curl/leg-extension program. The reduced weeks used two sets per exercise once weekly; other weeks used 6–8 weekly sets over two sessions. Both conditions trained to technical failure. No between-condition difference was detected in muscle thickness or 10RM gains. This small, short, within-person study does not establish equivalence, whole-body fatigue relief, maximal-strength effects, or an optimal schedule for trained lifters. [pancar-2026-active-deload]
+
+Practice inference: Review repeated performance decline alongside soreness, motivation, sleep, and other demands. A short reduction in sets or effort may help manage accumulated fatigue; specify what changes and when to reassess. Reducing effort remains a coaching option, not an intervention tested by the active-deload trial. Neither study establishes that deloads are mandatory or useless. These observations do not diagnose overtraining or prescribe a fixed reduction percentage. Respect the agreed program's recovery phase unless deliberately revising it.
+
+Choosing what to cut (practice inference): Use `guides/stimulus-fatigue` to identify costly exercises, dense blocks or excess sets. Swapping or trimming them can preserve useful work, but is not a prerequisite for reducing load or effort. Choose from those options according to the athlete's current capacity and goal; `guides/progression-decisions` distinguishes a single-session adjustment from a broader deload. No evidence here establishes a required order or waiting period.

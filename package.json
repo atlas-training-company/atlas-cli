@@ -1,0 +1,43 @@
+{
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atlas-training-company/atlas-cli.git"
+  },
+  "name": "@atlas-training/cli",
+  "version": "0.11.0",
+  "description": "Atlas training CLI for agents: programs, workouts, and coaching knowledge with approved account access.",
+  "type": "module",
+  "bin": {
+    "atlas": "dist/cli/index.js"
+  },
+  "files": [
+    "dist",
+    "knowledge"
+  ],
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "zod": "4.5.4"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "homepage": "https://atlas.training",
+  "keywords": [
+    "atlas",
+    "training",
+    "fitness",
+    "workouts",
+    "agents",
+    "cli"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "@types/node": "^26.5.0"
+  }
+}

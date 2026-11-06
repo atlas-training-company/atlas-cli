@@ -1,0 +1,2344 @@
+{
+  "schema_version": 1,
+  "version": "2026-11-05.1",
+  "sources": [
+    {
+      "id": "robinson-2024-rir",
+      "title": "Robinson et al. Exploring the Dose–Response Relationship Between Estimated Resistance Training Proximity to Failure, Strength Gain, and Muscle Hypertrophy: A Series of Meta-Regressions. Sports Medicine.",
+      "year": 2024,
+      "kind": "meta-regression",
+      "access": "abstract",
+      "url": "https://link.springer.com/article/10.1007/s40279-024-02069-2"
+    },
+    {
+      "id": "hermann-2025-without-fail",
+      "title": "Hermann et al. Without Fail: Muscular Adaptations in Single-Set Resistance Training Performed to Failure or with Repetitions-in-Reserve. Medicine & Science in Sports & Exercise.",
+      "year": 2025,
+      "kind": "randomized_trial",
+      "access": "abstract",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40249908/"
+    },
+    {
+      "id": "vasconcelos-2026-leg-extension-rir",
+      "title": "Vasconcelos et al. Comparative Adaptations to Different Leg Extension Set-termination Strategies in Trained Men and Women: A Unilateral Within-Participant Study. Journal of Strength and Conditioning Research.",
+      "year": 2026,
+      "kind": "randomized_trial",
+      "access": "abstract",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42617172/",
+      "locator": "Published online August 19, 2026; PMID 42617172; DOI 10.1519/JSC.0000000000005494; indexed abstract and publication metadata reviewed; full text not reviewed"
+    },
+    {
+      "id": "halperin-2022-rir-accuracy",
+      "title": "Halperin et al. Accuracy in Predicting Repetitions to Task Failure in Resistance Exercise: A Scoping Review and Exploratory Meta-analysis. Sports Medicine.",
+      "year": 2022,
+      "kind": "scoping_review_meta_analysis",
+      "access": "abstract",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34542869/",
+      "locator": "2022 journal issue; first published online September 2021"
+    },
+    {
+      "id": "pelland-2026-dose-response",
+      "title": "Pelland et al. The Resistance Training Dose Response: Meta-Regressions Exploring the Effects of Weekly Volume and Frequency on Muscle Hypertrophy and Strength Gains. Sports Medicine.",
+      "year": 2026,
+      "kind": "meta-regression",
+      "access": "abstract",
+      "url": "https://link.springer.com/article/10.1007/s40279-025-02344-w",
+      "locator": "2026 journal volume; first published online December 2025"
+    },
+    {
+      "id": "currier-2023-prescription",
+      "title": "Currier et al. Resistance training prescription for muscle strength and hypertrophy in healthy adults: a systematic review and Bayesian network meta-analysis. British Journal of Sports Medicine.",
+      "year": 2023,
+      "kind": "network_meta_analysis",
+      "access": "abstract",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37414459/"
+    },
+    {
+      "id": "singer-2024-rest",
+      "title": "Singer et al. Give it a rest: a systematic review with Bayesian meta-analysis on the effect of inter-set rest interval duration on muscle hypertrophy. Frontiers in Sports and Active Living.",
+      "year": 2024,
+      "kind": "systematic_review_meta_analysis",
+      "access": "abstract",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39205815/"
+    },
+    {
+      "id": "haugen-2023-equipment",
+      "title": "Haugen et al. Effect of free-weight vs. machine-based strength training on maximal strength, hypertrophy and jump performance: a systematic review and meta-analysis. BMC Sports Science, Medicine and Rehabilitation.",
+      "year": 2023,
+      "kind": "systematic_review_meta_analysis",
+      "access": "full_text",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10426227/",
+      "locator": "methods and results sections reviewed"
+    },
+    {
+      "id": "zhang-2025-supersets",
+      "title": "Zhang et al. Superset Versus Traditional Resistance Training Prescriptions: A Systematic Review and Meta-analysis Exploring Acute and Chronic Effects on Mechanical, Metabolic, and Perceptual Variables. Sports Medicine.",
+      "year": 2025,
+      "kind": "systematic_review_meta_analysis",
+      "access": "full_text",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12011898/",
+      "locator": "study characteristics and discussion sections reviewed"
+    },
+    {
+      "id": "bell-2023-deload",
+      "title": "Bell et al. Integrating Deloading into Strength and Physique Sports Training Programmes: An International Delphi Consensus Approach. Sports Medicine - Open.",
+      "year": 2023,
+      "kind": "expert_consensus",
+      "access": "full_text",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10511399/",
+      "locator": "results and discussion sections reviewed"
+    },
+    {
+      "id": "coleman-2024-deload",
+      "title": "Coleman et al. Gaining more from doing less? The effects of a one-week deload period during supervised resistance training on muscular adaptations. PeerJ.",
+      "year": 2024,
+      "kind": "randomized_trial",
+      "access": "abstract",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38274324/"
+    },
+    {
+      "id": "pancar-2026-active-deload",
+      "title": "Pancar et al. Effects of deload periods in resistance training on muscle hypertrophy and strength endurance in untrained young men using a randomized within subject design. Scientific Reports.",
+      "year": 2026,
+      "kind": "randomized_trial",
+      "access": "full_text",
+      "url": "https://www.nature.com/articles/s41598-026-40612-5",
+      "locator": "Published February 24, 2026; PMID 41730991; DOI 10.1038/s41598-026-40612-5; methods, results, discussion and limitations reviewed; trial registration NCT06825052"
+    },
+    {
+      "id": "schumann-2022-concurrent",
+      "title": "Schumann et al. Compatibility of Concurrent Aerobic and Strength Training for Skeletal Muscle Size and Function: An Updated Systematic Review and Meta-Analysis. Sports Medicine.",
+      "year": 2022,
+      "kind": "systematic_review_meta_analysis",
+      "access": "abstract",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34757594/"
+    },
+    {
+      "id": "nippard-2025-min-max",
+      "title": "Jeff Nippard. The Min-Max Program, original Phase 1. Jeff Nippard Fitness.",
+      "year": 2025,
+      "kind": "commercial_program",
+      "access": "secondary_notes",
+      "url": "https://jeffnippard.com/products/the-min-max-program",
+      "locator": "supplied summarized notes; original pages not checked; public product description checked for identity and scope"
+    },
+    {
+      "id": "nippard-2024-muscle-ladder",
+      "title": "Jeff Nippard. The Muscle Ladder: Get Jacked Using Science. Victory Belt Publishing. ISBN 9781628604863.",
+      "year": 2024,
+      "kind": "book",
+      "access": "secondary_notes",
+      "url": "https://www.penguin.com.au/books/the-muscle-ladder-9781628604863",
+      "locator": "supplied summarized notes; original pages not checked"
+    },
+    {
+      "id": "csep-2017-get-active",
+      "title": "Canadian Society for Exercise Physiology. Get Active Questionnaire.",
+      "year": 2017,
+      "kind": "professional_guidance",
+      "access": "full_text",
+      "url": "https://csep.ca/wp-content/uploads/2021/05/GETACTIVEQUESTIONNAIRE_ENG.pdf",
+      "locator": "pages 1–2 reviewed; current CSEP endorsement page checked"
+    },
+    {
+      "id": "csep-2017-get-active-reference",
+      "title": "Canadian Society for Exercise Physiology. Get Active Questionnaire Reference Document.",
+      "year": 2017,
+      "kind": "professional_guidance",
+      "access": "full_text",
+      "url": "https://csep.ca/wp-content/uploads/2021/05/GAQREFDOC_ENG.pdf",
+      "locator": "pages 1–2: advice for positive responses"
+    },
+    {
+      "id": "who-2020-physical-activity",
+      "title": "World Health Organization. WHO Guidelines on Physical Activity and Sedentary Behaviour.",
+      "year": 2020,
+      "kind": "public_health_guideline",
+      "access": "full_text",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK566046/",
+      "locator": "Adults aged 18–64: recommendations, good-practice statements, and supporting rationale"
+    },
+    {
+      "id": "cdc-2025-intensity",
+      "title": "Centers for Disease Control and Prevention. How to Measure Physical Activity Intensity.",
+      "year": 2025,
+      "kind": "public_health_guidance",
+      "access": "full_text",
+      "url": "https://www.cdc.gov/physical-activity-basics/measuring/index.html",
+      "locator": "December 4, 2025 update; relative intensity and talk-test guidance reviewed"
+    },
+    {
+      "id": "garstang-2024-goal-setting",
+      "title": "Garstang et al. What Effect Do Goal Setting Interventions Have on Physical Activity and Psychological Outcomes in Insufficiently Active Adults? A Systematic Review and Meta-Analysis. Journal of Physical Activity and Health.",
+      "year": 2024,
+      "kind": "systematic_review_meta_analysis",
+      "access": "abstract",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38560998/",
+      "locator": "PubMed indexed abstract reviewed; DOI 10.1123/jpah.2023-0340; no full-text review"
+    },
+    {
+      "id": "watson-2015-sleep",
+      "title": "Watson et al. Recommended Amount of Sleep for a Healthy Adult: A Joint Consensus Statement of the American Academy of Sleep Medicine and Sleep Research Society. Journal of Clinical Sleep Medicine.",
+      "year": 2015,
+      "kind": "expert_consensus",
+      "access": "full_text",
+      "url": "https://www.aasm.org/resources/pdf/adultsleepdurationconsensus.pdf",
+      "locator": "pages 591–592: consensus statement and methodology; DOI 10.5664/jcsm.4758"
+    },
+    {
+      "id": "aha-2024-heart-attack-warning-signs",
+      "title": "American Heart Association. Warning Signs of a Heart Attack.",
+      "year": 2024,
+      "kind": "public_health_guidance",
+      "access": "full_text",
+      "url": "https://www.heart.org/en/health-topics/heart-attack/warning-signs-of-a-heart-attack",
+      "locator": "Page reviewed December 12, 2024; warning signs, recurring symptoms and prompt emergency-services guidance reviewed"
+    },
+    {
+      "id": "aha-2015-first-aid-chest-pain",
+      "title": "American Heart Association. Part 8: First Aid, section 6.3 Chest Pain.",
+      "year": 2015,
+      "kind": "professional_guidance",
+      "access": "full_text",
+      "url": "https://cpr.heart.org/en/resuscitation-science/first-aid-guidelines/first-aid",
+      "locator": "Online guideline compilation section 6.3: immediate EMS transport recommendation cites 2015 Part 15; only relevant section reviewed"
+    },
+    {
+      "id": "zhao-2026-concurrent-aerobic",
+      "title": "Zhao et al. Systematic review of the effects of concurrent training on maximal oxygen uptake and skeletal muscle mitochondrial adaptation: A meta-analysis. Journal of Sports Sciences.",
+      "year": 2026,
+      "kind": "systematic_review_meta_analysis",
+      "access": "abstract",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42732577/",
+      "locator": "Published online September 13, 2026; DOI 10.1080/02640414.2026.2732611; PMID 42732577. Correction published September 25, 2026 (DOI 10.1080/02640414.2026.2739694; PMID 42788310) removes duplicated abstract sentences. Corrected PubMed abstract, correction metadata and indexed publisher notice text reviewed October 3, 2026; full original article and underlying trial overlap not reviewed."
+    },
+    {
+      "id": "souabni-2026-exercise-timing-sleep",
+      "title": "Souabni et al. Effects of morning versus evening exercise on sleep: a systematic review of comparative studies with a meta-analysis of randomized controlled trials. Sleep Medicine Reviews.",
+      "year": 2026,
+      "kind": "systematic_review_meta_analysis",
+      "access": "abstract",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42632303/",
+      "locator": "Published online August 20, 2026; DOI 10.1016/j.smrv.2026.102358; PMID 42632303; PubMed abstract and publication metadata reviewed; full text not reviewed"
+    },
+    {
+      "id": "strey-2026-partial-rom",
+      "title": "Strey et al. Muscle hypertrophy from partial repetition at long vs. short muscle length: A systematic review and meta-analysis. Sport Sciences for Health.",
+      "year": 2026,
+      "kind": "systematic_review_meta_analysis",
+      "access": "abstract",
+      "url": "https://link.springer.com/article/10.1007/s11332-025-01586-5",
+      "locator": "Published online January 5, 2026; DOI 10.1007/s11332-025-01586-5; publisher abstract and public reference metadata reviewed October 3, 2026. Eight studies, search through February 2025; long versus short partial ROM, not superiority over full ROM. Full text and complete underlying-trial overlap not reviewed; Crossmark reported current."
+    },
+    {
+      "id": "wolf-2025-lengthened-partials",
+      "title": "Wolf et al. Lengthened partial repetitions elicit similar muscular adaptations as full range of motion repetitions during resistance training in trained individuals. PeerJ.",
+      "year": 2025,
+      "kind": "randomized_trial",
+      "access": "full_text",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11829627/",
+      "locator": "Published February 12, 2025; DOI 10.7717/peerj.18904; PMID 39959841. Full-text methods, results, discussion and limitations reviewed October 3, 2026 via Europe PMC XML. Eight-week within-participant upper-body trial: 30 participants enrolled, upper limbs randomized within participants, 25 participants completed; elbow-flexor/extensor ultrasound. No correction/retraction found in scoped publication-record searches."
+    },
+    {
+      "id": "israetel-2021-hypertrophy",
+      "title": "Mike Israetel, James Hoffmann, Melissa Davis and Jared Feather. Scientific Principles of Hypertrophy Training. Renaissance Periodization. ISBN 9798708998286.",
+      "year": 2021,
+      "kind": "book",
+      "access": "secondary_notes",
+      "url": "https://rpstrength.com/the-scientific-principles-of-hypertrophy-training",
+      "locator": "stimulus-to-fatigue ratio concept as the authors describe it publicly; book pages not checked"
+    },
+    {
+      "id": "moran-navarro-2017-failure-recovery",
+      "title": "Morán-Navarro et al. Time course of recovery following resistance training leading or not to failure. European Journal of Applied Physiology.",
+      "year": 2017,
+      "kind": "crossover_trial",
+      "access": "abstract",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28965198/",
+      "locator": "PMID 28965198; DOI 10.1007/s00421-017-3725-7; crossover in 10 trained men; abstract reviewed"
+    },
+    {
+      "id": "thomas-2018-fatigue-recovery",
+      "title": "Thomas et al. Neuromuscular Fatigue and Recovery after Heavy Resistance, Jump, and Sprint Training. Medicine & Science in Sports & Exercise.",
+      "year": 2018,
+      "kind": "crossover_trial",
+      "access": "abstract",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30067591/",
+      "locator": "PMID 30067591; DOI 10.1249/MSS.0000000000001733; crossover in 10 male athletes; abstract reviewed"
+    },
+    {
+      "id": "enoka-2016-fatigue",
+      "title": "Enoka and Duchateau. Translating Fatigue to Human Performance. Medicine & Science in Sports & Exercise.",
+      "year": 2016,
+      "kind": "narrative_review",
+      "access": "abstract",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27015386/",
+      "locator": "PMID 27015386; DOI 10.1249/MSS.0000000000000929; framework of performance and perceived fatigability; abstract reviewed"
+    },
+    {
+      "id": "ferrari-2026-progressive-overload",
+      "title": "Ferrari et al. Time course of muscle hypertrophy with and without progressive overload. International Journal of Sports Medicine.",
+      "year": 2026,
+      "kind": "randomized_trial",
+      "access": "abstract",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42880344/",
+      "locator": "Published online October 15, 2026; PMID 42880344; DOI 10.1055/a-2980-6473; indexed abstract and publication metadata reviewed November 1, 2026; full text not reviewed"
+    },
+    {
+      "id": "kassiano-2026-progressive-overload",
+      "title": "Kassiano et al. Progressive Overload and Muscle Hypertrophy: Its Relation to Muscle Use in Training Session. Journal of Strength and Conditioning Research.",
+      "year": 2026,
+      "kind": "randomized_trial",
+      "access": "abstract",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42873141/",
+      "locator": "Published online October 14, 2026; PMID 42873141; DOI 10.1519/JSC.0000000000005659; indexed abstract and publication metadata reviewed November 1, 2026; full text not reviewed"
+    }
+  ],
+  "entries": [
+    {
+      "id": "concurrent-training",
+      "title": "Combining resistance and aerobic training",
+      "summary": "Balance strength and aerobic goals while distinguishing added training from displaced endurance work.",
+      "kind": "research",
+      "tags": [
+        "concurrent",
+        "hybrid",
+        "cardio",
+        "conditioning",
+        "hypertrophy",
+        "power",
+        "vo2max"
+      ],
+      "version": 3,
+      "reviewed_at": "2026-10-03",
+      "source_ids": [
+        "schumann-2022-concurrent",
+        "zhao-2026-concurrent-aerobic"
+      ]
+    },
+    {
+      "id": "deloads",
+      "title": "Deloads and fatigue management",
+      "summary": "Distinguish reduced-volume deloads, complete training breaks, and individual fatigue-management practice.",
+      "kind": "practice",
+      "tags": [
+        "deload",
+        "fatigue",
+        "recovery",
+        "periodization",
+        "active-deload",
+        "cessation",
+        "stimulus-fatigue",
+        "stacking"
+      ],
+      "version": 4,
+      "reviewed_at": "2026-11-01",
+      "source_ids": [
+        "bell-2023-deload",
+        "coleman-2024-deload",
+        "pancar-2026-active-deload"
+      ]
+    },
+    {
+      "id": "exercise-selection",
+      "title": "Exercise selection, equipment and range of motion",
+      "summary": "Choose useful exercises and repeatable range of motion; distinguish equipment comparisons and deliberate lengthened partials.",
+      "kind": "research",
+      "tags": [
+        "exercise-selection",
+        "equipment",
+        "machines",
+        "free-weights",
+        "dumbbells",
+        "barbells",
+        "cables",
+        "bodyweight",
+        "substitutions",
+        "technique",
+        "hypertrophy",
+        "range-of-motion",
+        "rom",
+        "lengthened-partials",
+        "muscle-length",
+        "fatigue",
+        "stimulus-fatigue"
+      ],
+      "version": 4,
+      "reviewed_at": "2026-10-27",
+      "source_ids": [
+        "haugen-2023-equipment",
+        "strey-2026-partial-rom",
+        "wolf-2025-lengthened-partials"
+      ]
+    },
+    {
+      "id": "frequency",
+      "title": "Training frequency and splits",
+      "summary": "Use frequency to distribute weekly work and fit a sustainable schedule.",
+      "kind": "research",
+      "tags": [
+        "frequency",
+        "split",
+        "weekly",
+        "hypertrophy",
+        "strength"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-09-07",
+      "source_ids": [
+        "pelland-2026-dose-response"
+      ]
+    },
+    {
+      "id": "load-and-repetitions",
+      "title": "Load and repetition ranges",
+      "summary": "Choose loads for the desired strength skill, repeatable effort, and tolerable muscle work.",
+      "kind": "research",
+      "tags": [
+        "load",
+        "repetitions",
+        "rep-range",
+        "strength",
+        "hypertrophy"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-09-07",
+      "source_ids": [
+        "currier-2023-prescription"
+      ]
+    },
+    {
+      "id": "programs/min-max",
+      "title": "Min-Max program context",
+      "summary": "Interpret original Phase 1 as a low-volume, high-effort program policy, with exact prescriptions kept in the authorized plan.",
+      "kind": "program",
+      "tags": [
+        "program",
+        "min-max",
+        "low-volume",
+        "effort",
+        "hypertrophy"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-09-07",
+      "source_ids": [
+        "nippard-2025-min-max",
+        "hermann-2025-without-fail"
+      ]
+    },
+    {
+      "id": "programs/muscle-ladder",
+      "title": "The Muscle Ladder framework",
+      "summary": "Use a fundamentals-first coaching framework without treating book notes as a universal prescription.",
+      "kind": "program",
+      "tags": [
+        "program",
+        "muscle-ladder",
+        "fundamentals",
+        "technique",
+        "progression",
+        "adherence"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-09-07",
+      "source_ids": [
+        "nippard-2024-muscle-ladder"
+      ]
+    },
+    {
+      "id": "progression",
+      "title": "Progression and load adjustments",
+      "summary": "Use consistent technique, rep targets, and effort to make small, reviewable progression decisions.",
+      "kind": "practice",
+      "tags": [
+        "progression",
+        "load",
+        "repetitions",
+        "double-progression",
+        "rir"
+      ],
+      "version": 2,
+      "reviewed_at": "2026-11-01",
+      "source_ids": [
+        "nippard-2024-muscle-ladder",
+        "halperin-2022-rir-accuracy",
+        "ferrari-2026-progressive-overload",
+        "kassiano-2026-progressive-overload"
+      ]
+    },
+    {
+      "id": "proximity-to-failure",
+      "title": "Proximity to failure and RIR",
+      "summary": "Use near-failure effort deliberately; distinguish estimated RIR, technical limits, and literal failure.",
+      "kind": "research",
+      "tags": [
+        "hypertrophy",
+        "effort",
+        "rir",
+        "failure",
+        "fatigue"
+      ],
+      "version": 2,
+      "reviewed_at": "2026-09-12",
+      "source_ids": [
+        "robinson-2024-rir",
+        "hermann-2025-without-fail",
+        "halperin-2022-rir-accuracy",
+        "vasconcelos-2026-leg-extension-rir"
+      ]
+    },
+    {
+      "id": "rest",
+      "title": "Rest between working sets",
+      "summary": "Rest long enough to preserve set quality; exact timing is a practical choice with uncertain hypertrophy thresholds.",
+      "kind": "research",
+      "tags": [
+        "rest",
+        "recovery",
+        "hypertrophy",
+        "sets",
+        "performance"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-09-07",
+      "source_ids": [
+        "singer-2024-rest"
+      ]
+    },
+    {
+      "id": "time-efficient-training",
+      "title": "Time-efficient training",
+      "summary": "Use reduced volume or sensible supersets to save time while watching effort and performance.",
+      "kind": "research",
+      "tags": [
+        "time-efficient",
+        "supersets",
+        "minimal-dose",
+        "hypertrophy",
+        "adherence"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-09-07",
+      "source_ids": [
+        "zhang-2025-supersets",
+        "hermann-2025-without-fail"
+      ]
+    },
+    {
+      "id": "volume",
+      "title": "Weekly volume for hypertrophy",
+      "summary": "Track challenging sets per muscle and adjust recoverable volume without treating a population average as a personal optimum.",
+      "kind": "research",
+      "tags": [
+        "hypertrophy",
+        "volume",
+        "sets",
+        "weekly",
+        "recovery"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-09-07",
+      "source_ids": [
+        "pelland-2026-dose-response",
+        "currier-2023-prescription"
+      ]
+    },
+    {
+      "id": "assessment-and-readiness",
+      "title": "Assessment and readiness",
+      "summary": "Establish a useful baseline and respond proportionately to relevant symptoms, restrictions, and changes in readiness.",
+      "kind": "practice",
+      "tags": [
+        "assessment",
+        "intake",
+        "baseline",
+        "readiness",
+        "safety",
+        "symptoms",
+        "pain",
+        "restrictions",
+        "beginner",
+        "emergency",
+        "chest",
+        "dizziness"
+      ],
+      "version": 2,
+      "reviewed_at": "2026-09-07",
+      "source_ids": [
+        "csep-2017-get-active",
+        "csep-2017-get-active-reference",
+        "aha-2024-heart-attack-warning-signs",
+        "aha-2015-first-aid-chest-pain"
+      ]
+    },
+    {
+      "id": "aerobic-conditioning",
+      "title": "Aerobic conditioning",
+      "summary": "Build aerobic activity from a tolerable baseline using understandable intensity and gradual progression.",
+      "kind": "practice",
+      "tags": [
+        "aerobic",
+        "cardio",
+        "conditioning",
+        "endurance",
+        "walking",
+        "cycling",
+        "intensity",
+        "talk-test",
+        "zone-2",
+        "health"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-09-07",
+      "source_ids": [
+        "who-2020-physical-activity",
+        "cdc-2025-intensity"
+      ]
+    },
+    {
+      "id": "adherence-and-recovery",
+      "title": "Adherence and recovery",
+      "summary": "Use feasible goals, a regular review, and recovery context without diagnosing causes from incomplete logs.",
+      "kind": "practice",
+      "tags": [
+        "adherence",
+        "goals",
+        "motivation",
+        "barriers",
+        "review",
+        "recovery",
+        "sleep",
+        "nutrition",
+        "hydration",
+        "fatigue",
+        "exercise-timing",
+        "evening"
+      ],
+      "version": 2,
+      "reviewed_at": "2026-09-23",
+      "source_ids": [
+        "garstang-2024-goal-setting",
+        "watson-2015-sleep",
+        "souabni-2026-exercise-timing-sleep"
+      ]
+    },
+    {
+      "id": "guides/connect",
+      "title": "Connect and identify the athlete",
+      "summary": "Connect with approve-on-phone sign-in, verify identity, discover operations and interpret CLI results.",
+      "kind": "practice",
+      "tags": [
+        "guide",
+        "onboarding",
+        "auth",
+        "identity",
+        "capabilities"
+      ],
+      "version": 7,
+      "reviewed_at": "2026-11-05",
+      "source_ids": []
+    },
+    {
+      "id": "guides/intake",
+      "title": "Establish and maintain individual context",
+      "summary": "Read and maintain the durable profile while separating unknowns and current session readiness.",
+      "kind": "practice",
+      "tags": [
+        "guide",
+        "intake",
+        "profile",
+        "goals",
+        "schedule",
+        "preferences",
+        "onboarding",
+        "questions"
+      ],
+      "version": 6,
+      "reviewed_at": "2026-10-12",
+      "source_ids": []
+    },
+    {
+      "id": "guides/program-authoring",
+      "title": "Author and revise a concrete program",
+      "summary": "Review saved coaching guides and complete authored frequency options; author, copy and schedule concrete prescriptions while preserving history.",
+      "kind": "practice",
+      "tags": [
+        "guide",
+        "program",
+        "authoring",
+        "equipment",
+        "exercise",
+        "merge",
+        "schedule",
+        "reschedule",
+        "copy",
+        "starter",
+        "repeat"
+      ],
+      "version": 11,
+      "reviewed_at": "2026-10-27",
+      "source_ids": []
+    },
+    {
+      "id": "guides/live-workout",
+      "title": "Coach and record a workout",
+      "summary": "Resume or start the right session, log actual work, manage timers and correct records.",
+      "kind": "practice",
+      "tags": [
+        "guide",
+        "workout",
+        "session",
+        "logging",
+        "sets",
+        "timer",
+        "correction"
+      ],
+      "version": 8,
+      "reviewed_at": "2026-10-31",
+      "source_ids": []
+    },
+    {
+      "id": "guides/review-adaptation",
+      "title": "Review progress and adapt the individual plan",
+      "summary": "Review saved guide and actual training, adapt selected unstarted work in partial weeks and keep additional suggestions separate until selected.",
+      "kind": "practice",
+      "tags": [
+        "guide",
+        "review",
+        "progress",
+        "adaptation",
+        "profile",
+        "progression",
+        "weekly-summary"
+      ],
+      "version": 10,
+      "reviewed_at": "2026-10-21",
+      "source_ids": []
+    },
+    {
+      "id": "guides/history-metrics",
+      "title": "Interpret history, measurements, imports and exports",
+      "summary": "Import historical sessions through the API, use recorded body weight and outside workouts, and preserve status, identity, load and source semantics.",
+      "kind": "practice",
+      "tags": [
+        "guide",
+        "history",
+        "metrics",
+        "reps",
+        "traces",
+        "import",
+        "session",
+        "exercise",
+        "receipt",
+        "export",
+        "voltra",
+        "body-weight",
+        "activities"
+      ],
+      "version": 11,
+      "reviewed_at": "2026-10-21",
+      "source_ids": []
+    },
+    {
+      "id": "guides/safe-mutations",
+      "title": "Make deliberate, recoverable writes",
+      "summary": "Preserve editable fields and independent revisions and handle uncertainty and conflicts.",
+      "kind": "practice",
+      "tags": [
+        "guide",
+        "write",
+        "mutation",
+        "revision",
+        "idempotency",
+        "conflict",
+        "archive"
+      ],
+      "version": 2,
+      "reviewed_at": "2026-09-08",
+      "source_ids": []
+    },
+    {
+      "id": "guides/evidence",
+      "title": "Use evidence for an individual decision",
+      "summary": "Retrieve appropriate sources and separate findings, program conventions and coaching inference.",
+      "kind": "practice",
+      "tags": [
+        "guide",
+        "evidence",
+        "research",
+        "coaching"
+      ],
+      "version": 3,
+      "reviewed_at": "2026-10-12",
+      "source_ids": []
+    },
+    {
+      "id": "skills/atlas-training",
+      "title": "Coach with Atlas",
+      "summary": "Use when an athlete asks for coaching, intake, programming, workout guidance, logging, history review, or training adjustments using Atlas.",
+      "kind": "skill",
+      "tags": [
+        "skill",
+        "atlas",
+        "workflow",
+        "onboarding",
+        "intake",
+        "logging"
+      ],
+      "version": 12,
+      "reviewed_at": "2026-11-05",
+      "source_ids": []
+    },
+    {
+      "id": "skills/training-session-design",
+      "title": "Design a training session",
+      "summary": "Use when designing or adapting one resistance-training workout, choosing exercise substitutions, or shortening a session for available equipment and time. Use training-program-design for multiweek structure.",
+      "kind": "skill",
+      "tags": [
+        "skill",
+        "session",
+        "workout",
+        "substitution",
+        "time",
+        "equipment",
+        "supersets",
+        "circuits"
+      ],
+      "version": 4,
+      "reviewed_at": "2026-10-27",
+      "source_ids": []
+    },
+    {
+      "id": "skills/training-program-design",
+      "title": "Build a program and choose a split",
+      "summary": "Use when building or comparing resistance-training programs, selecting a full-body, upper/lower or PPL split, or adapting a training block to goals and schedule. Excludes single-session edits and log-only progression decisions.",
+      "kind": "skill",
+      "tags": [
+        "skill",
+        "program",
+        "split",
+        "full-body",
+        "upper-lower",
+        "ppl",
+        "schedule",
+        "block"
+      ],
+      "version": 3,
+      "reviewed_at": "2026-10-27",
+      "source_ids": []
+    },
+    {
+      "id": "skills/training-progression-review",
+      "title": "Review training and progress",
+      "summary": "Use when reviewing workout logs, deciding whether to increase load, reps or volume, investigating a plateau, or adjusting effort and fatigue within a resistance-training program.",
+      "kind": "skill",
+      "tags": [
+        "skill",
+        "progression",
+        "review",
+        "plateau",
+        "load",
+        "repetitions",
+        "volume",
+        "effort"
+      ],
+      "version": 3,
+      "reviewed_at": "2026-11-01",
+      "source_ids": []
+    },
+    {
+      "id": "skills/training-conditioning-recovery",
+      "title": "Integrate conditioning and recovery",
+      "summary": "Use when integrating cardio or intervals with lifting, planning a hybrid-training week, or adjusting training demand for recovery. For mobility, stretching and yoga practice, use training-mobility-yoga.",
+      "kind": "skill",
+      "tags": [
+        "skill",
+        "conditioning",
+        "cardio",
+        "intervals",
+        "hiit",
+        "hybrid",
+        "recovery"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-10-12",
+      "source_ids": []
+    },
+    {
+      "id": "skills/training-mobility-yoga",
+      "title": "Mobility, stretching and yoga",
+      "summary": "Use when choosing mobility or flexibility work, static or dynamic stretching, pre-lift movement preparation, or yoga alongside training. Covers goal-specific dose, timing and reassessment; excludes diagnosis and individualized injury rehabilitation.",
+      "kind": "skill",
+      "tags": [
+        "skill",
+        "mobility",
+        "stretching",
+        "flexibility",
+        "warm-up",
+        "yoga",
+        "rom"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-10-12",
+      "source_ids": []
+    },
+    {
+      "id": "guides/coaching-context",
+      "title": "Coaching context and evidence contract",
+      "summary": "Establish current facts, interpret records, and keep evidence, program convention and coaching inference separate before individualized advice.",
+      "kind": "practice",
+      "tags": [
+        "guide",
+        "context",
+        "evidence",
+        "records",
+        "effort",
+        "coaching"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-10-12",
+      "source_ids": []
+    },
+    {
+      "id": "guides/session-decisions",
+      "title": "Session decisions",
+      "summary": "Substitutions, warm-up versus work sets, short-session trade-offs and effort endpoints for one workout.",
+      "kind": "practice",
+      "tags": [
+        "guide",
+        "session",
+        "substitution",
+        "warm-up",
+        "supersets",
+        "time",
+        "effort"
+      ],
+      "version": 5,
+      "reviewed_at": "2026-11-01",
+      "source_ids": []
+    },
+    {
+      "id": "guides/stimulus-fatigue",
+      "title": "Stimulus and fatigue: choose exercises by what they cost",
+      "summary": "Stimulus-to-fatigue ratio: each exercise's fatigue rating and limiting factor, the session stacking score and caps, Effort by exercise type, fatigue signals, and options for reducing demand.",
+      "kind": "practice",
+      "tags": [
+        "guide",
+        "stimulus-fatigue",
+        "sfr",
+        "fatigue",
+        "exercise-selection",
+        "substitutions",
+        "stacking",
+        "effort",
+        "deload",
+        "recovery",
+        "cns"
+      ],
+      "version": 2,
+      "reviewed_at": "2026-11-01",
+      "source_ids": [
+        "israetel-2021-hypertrophy",
+        "haugen-2023-equipment",
+        "robinson-2024-rir",
+        "moran-navarro-2017-failure-recovery",
+        "thomas-2018-fatigue-recovery",
+        "enoka-2016-fatigue"
+      ]
+    },
+    {
+      "id": "guides/split-decisions",
+      "title": "Split decisions",
+      "summary": "Choose full-body, upper/lower, PPL or rolling splits by the schedule that actually happens; allocate and audit weekly work.",
+      "kind": "practice",
+      "tags": [
+        "guide",
+        "split",
+        "schedule",
+        "frequency",
+        "full-body",
+        "upper-lower",
+        "ppl",
+        "missed-sessions"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-10-12",
+      "source_ids": []
+    },
+    {
+      "id": "guides/program-modes",
+      "title": "Program modes",
+      "summary": "Hypertrophy-first, strength, time-constrained or maintenance, minimal-equipment and named-program modes for program design.",
+      "kind": "practice",
+      "tags": [
+        "guide",
+        "program",
+        "hypertrophy",
+        "strength",
+        "maintenance",
+        "minimal-equipment",
+        "calisthenics"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-10-12",
+      "source_ids": []
+    },
+    {
+      "id": "guides/progression-decisions",
+      "title": "Progression decisions",
+      "summary": "Reconcile records before calculating, then choose progress, repeat, adjust, investigate a plateau or change volume.",
+      "kind": "practice",
+      "tags": [
+        "guide",
+        "progression",
+        "plateau",
+        "double-progression",
+        "fatigue",
+        "effort",
+        "volume"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-10-12",
+      "source_ids": []
+    },
+    {
+      "id": "guides/hybrid-decisions",
+      "title": "Hybrid and recovery decisions",
+      "summary": "Place and dose conditioning around the chosen priority and review recoverability without over-reading fatigue.",
+      "kind": "practice",
+      "tags": [
+        "guide",
+        "hybrid",
+        "conditioning",
+        "cardio",
+        "intervals",
+        "recovery",
+        "zone-2"
+      ],
+      "version": 2,
+      "reviewed_at": "2026-10-21",
+      "source_ids": []
+    },
+    {
+      "id": "evidence/2026-10-05-failure-rir",
+      "title": "Is routine failure needed in multi-set training?",
+      "summary": "Dated source check: repeated true failure is not established as a blanket requirement; exact individual effort targets remain uncertain.",
+      "kind": "research",
+      "tags": [
+        "evidence",
+        "failure",
+        "effort",
+        "rir",
+        "hypertrophy"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-10-05",
+      "source_ids": [
+        "robinson-2024-rir",
+        "hermann-2025-without-fail"
+      ]
+    },
+    {
+      "id": "evidence/2026-10-12-rest-recovery-time-efficiency",
+      "title": "Shorter sessions without sacrificing recovery",
+      "summary": "Dated source check: antagonist supersets and rest timing can save time; exact equivalence and fixed rest ceilings are not established.",
+      "kind": "research",
+      "tags": [
+        "evidence",
+        "rest",
+        "supersets",
+        "time-efficient",
+        "recovery"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-10-12",
+      "source_ids": []
+    },
+    {
+      "id": "evidence/2026-10-12-coaching-source-checks",
+      "title": "Source checks for the coaching skills",
+      "summary": "Dated source checks behind the coaching skills: weekly volume and frequency, autoregulation, concurrent training and the HIIT duration model.",
+      "kind": "research",
+      "tags": [
+        "evidence",
+        "volume",
+        "frequency",
+        "autoregulation",
+        "concurrent",
+        "hiit"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-10-12",
+      "source_ids": [
+        "pelland-2026-dose-response",
+        "schumann-2022-concurrent"
+      ]
+    },
+    {
+      "id": "evidence/2026-10-13-warm-up-sets",
+      "title": "How heavy warm-up sets should be",
+      "summary": "Dated source check: one warm-up set near the working load prepares better than light sets alone; exact ramp percentages are convention.",
+      "kind": "research",
+      "tags": [
+        "evidence",
+        "warm-up",
+        "ramp",
+        "session"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-10-13",
+      "source_ids": []
+    },
+    {
+      "id": "evidence/2026-10-12-mobility-stretching-yoga",
+      "title": "Mobility, stretching and yoga: evidence check",
+      "summary": "Dated source check: separate movement preparation, longer-term range of motion and optional yoga or relaxation; stretching dose and timing evidence.",
+      "kind": "research",
+      "tags": [
+        "evidence",
+        "mobility",
+        "stretching",
+        "flexibility",
+        "yoga",
+        "warm-up"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-10-12",
+      "source_ids": []
+    },
+    {
+      "id": "research/open-questions",
+      "title": "Open research questions",
+      "summary": "A research queue of unresolved coaching questions, with what would resolve each; not a prescribed program.",
+      "kind": "research",
+      "tags": [
+        "questions",
+        "evidence",
+        "research-queue"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-10-12",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-05-03-concurrent-training-interference",
+      "title": "Concurrent training interference",
+      "summary": "Older research pointer (2026-05-03), not re-checked: Concurrent endurance and resistance training was reported to preserve whole-muscle growth and maximal strength on average.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "concurrent",
+        "interference"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-05-03",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-05-04-long-muscle-length-training",
+      "title": "Long muscle length training",
+      "summary": "Older research pointer (2026-05-04), not re-checked: The imported reviews favor considering tension at longer muscle lengths, while leaving superiority of lengthened partials over full-range repetitions unsettled.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "long",
+        "muscle",
+        "length"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-05-04",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-05-05-vo2max-hiit-protocols",
+      "title": "VO2max HIIT protocols",
+      "summary": "Older research pointer (2026-05-05), not re-checked: The cited syntheses report aerobic-fitness improvements from both intervals and continuous exercise, with intervals potentially offering time savings.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "vo2max",
+        "hiit",
+        "protocols"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-05-05",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-05-06-beginner-calisthenics-integration",
+      "title": "Beginner calisthenics integration",
+      "summary": "Older research pointer (2026-05-06), not re-checked: A short push-up progression trial and an older progression position stand support treating bodyweight exercise as progressively dosed resistance work.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "beginner",
+        "calisthenics",
+        "integration"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-05-06",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-05-07-inter-set-rest-hypertrophy",
+      "title": "Inter-set rest hypertrophy",
+      "summary": "Older research pointer (2026-05-07), not re-checked: The imported rest review suggests a small growth advantage above very short rest intervals, with uncertain differences among longer rests.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "inter",
+        "set",
+        "rest",
+        "hypertrophy"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-05-07",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-05-08-deloads-fatigue-management",
+      "title": "Deloads fatigue management",
+      "summary": "Older research pointer (2026-05-08), not re-checked: A deload consensus statement and a trial of one week without training address different interventions.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "deloads",
+        "fatigue",
+        "management"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-05-08",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-05-09-exercise-order-prioritization",
+      "title": "Exercise order prioritization",
+      "summary": "Older research pointer (2026-05-09), not re-checked: The cited syntheses associate earlier exercise placement with greater strength improvement in that exercise.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "exercise",
+        "order",
+        "prioritization"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-05-09",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-05-10-training-frequency-hypertrophy",
+      "title": "Training frequency hypertrophy",
+      "summary": "Older research pointer (2026-05-10), not re-checked: Volume-equated frequency comparisons suggest frequency alone has a limited effect on muscle growth.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "frequency",
+        "hypertrophy"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-05-10",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-05-11-zone-2-hiit-hybrid-conditioning",
+      "title": "Zone 2 HIIT hybrid conditioning",
+      "summary": "Older research pointer (2026-05-11), not re-checked: Low-intensity endurance exercise and interval training were both reported to improve aerobic fitness.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "zone",
+        "hiit",
+        "hybrid",
+        "conditioning"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-05-11",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-05-12-tendon-load-management",
+      "title": "Tendon load management",
+      "summary": "Older research pointer (2026-05-12), not re-checked: Reviews in tendinopathy populations support progressive resistance loading, but do not identify a single best protocol across tendon conditions.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "tendon",
+        "load",
+        "management"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-05-12",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-05-13-loaded-carries-hybrid-accessory",
+      "title": "Loaded carries hybrid accessory",
+      "summary": "Older research pointer (2026-05-13), not re-checked: Carry research includes biomechanics, muscle-activation studies, and load-carriage performance research.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "loaded",
+        "carries",
+        "hybrid",
+        "accessory"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-05-13",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-05-14-proximity-to-failure-rir",
+      "title": "Proximity to failure RIR",
+      "summary": "Older research pointer (2026-05-14), not re-checked: The imported failure literature distinguishes working near failure from reaching momentary failure on every set.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "proximity",
+        "failure",
+        "rir"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-05-14",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-05-15-free-weights-machines-hypertrophy",
+      "title": "Free weights machines hypertrophy",
+      "summary": "Older research pointer (2026-05-15), not re-checked: Direct comparisons report broadly similar muscle-growth outcomes for machines and free weights.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "free",
+        "weights",
+        "machines",
+        "hypertrophy"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-05-15",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-05-16-supersets-time-efficient-hypertrophy",
+      "title": "Supersets time efficient hypertrophy",
+      "summary": "Older research pointer (2026-05-16), not re-checked: Superset studies suggest shorter sessions with broadly comparable chronic outcomes in a small evidence base.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "supersets",
+        "time",
+        "efficient",
+        "hypertrophy"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-05-16",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-05-17-range-of-motion-hypertrophy",
+      "title": "Range of motion hypertrophy",
+      "summary": "Older research pointer (2026-05-17), not re-checked: The cited range-of-motion literature favors distinguishing full range, long-length partials, and short-length partials.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "range",
+        "motion",
+        "hypertrophy"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-05-17",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-05-18-deloads-periodization-fatigue",
+      "title": "Deloads periodization fatigue",
+      "summary": "Older research pointer (2026-05-18), not re-checked: Volume-matched periodization research reports clearer support for strength than for additional muscle growth.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "deloads",
+        "periodization",
+        "fatigue"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-05-18",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-05-19-warmups-ramp-sets",
+      "title": "Warmups ramp sets",
+      "summary": "Older research pointer (2026-05-19), not re-checked: Warm-up reviews address acute readiness and performance rather than demonstrating additional muscle growth.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "warmups",
+        "ramp",
+        "sets"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-05-19",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-05-20-weekly-volume-hypertrophy",
+      "title": "Weekly volume hypertrophy",
+      "summary": "Older research pointer (2026-05-20), not re-checked: The imported volume syntheses associate more weekly sets with greater average growth, subject to diminishing returns.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "weekly",
+        "volume",
+        "hypertrophy"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-05-20",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-05-21-concurrent-training-sequencing",
+      "title": "Concurrent training sequencing",
+      "summary": "Older research pointer (2026-05-21), not re-checked: Sequencing research separates whole-muscle growth, maximal strength, and explosive performance.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "concurrent",
+        "sequencing"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-05-21",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-05-22-repetition-tempo-hypertrophy",
+      "title": "Repetition tempo hypertrophy",
+      "summary": "Older research pointer (2026-05-22), not re-checked: The cited tempo reviews report little clear growth difference across commonly studied repetition speeds.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "repetition",
+        "tempo",
+        "hypertrophy"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-05-22",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-05-23-exercise-selection-variation",
+      "title": "Exercise selection variation",
+      "summary": "Older research pointer (2026-05-23), not re-checked: Planned exercise variation and single- versus multi-joint comparisons address different questions.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "exercise",
+        "selection",
+        "variation"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-05-23",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-05-24-resistance-training-prescription-hierarchy",
+      "title": "Resistance training prescription hierarchy",
+      "summary": "Older research pointer (2026-05-24), not re-checked: The imported overviews emphasize resistance training itself, training volume, and goal-specific prescription rather than universal superiority of advanced methods.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "resistance",
+        "prescription",
+        "hierarchy"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-05-24",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-05-25-plyometrics-hybrid-training",
+      "title": "Plyometrics hybrid training",
+      "summary": "Older research pointer (2026-05-25), not re-checked: Plyometric research primarily supports examining jumping, sprinting, and power outcomes.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "plyometrics",
+        "hybrid"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-05-25",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-05-26-blood-flow-restriction-training",
+      "title": "Blood flow restriction training",
+      "summary": "Older research pointer (2026-05-26), not re-checked: Blood-flow-restriction studies examine whether low-load exercise can become more effective with occlusion.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "blood",
+        "flow",
+        "restriction"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-05-26",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-01-unilateral-vs-bilateral-training",
+      "title": "Unilateral vs. bilateral training",
+      "summary": "Older research pointer (2026-06-01), not re-checked: The imported unilateral/bilateral synthesis reports no clear average growth difference in a limited literature.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "unilateral",
+        "bilateral"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-01",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-02-grip-strength-training",
+      "title": "Grip strength training",
+      "summary": "Older research pointer (2026-06-02), not re-checked: Grip strength can be a health marker without proving that isolated grip training changes long-term health outcomes.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "grip",
+        "strength"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-02",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-03-eccentric-tempo",
+      "title": "Eccentric tempo",
+      "summary": "Older research pointer (2026-06-03), not re-checked: The eccentric-duration review has a small evidence base and uncertain hypertrophy estimates.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "eccentric",
+        "tempo"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-03",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-04-unstable-surface-training",
+      "title": "Unstable surface training",
+      "summary": "Older research pointer (2026-06-04), not re-checked: Unstable-surface exercise may improve balance, but its superiority to stable-surface resistance training depends on the task and population.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "unstable",
+        "surface"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-04",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-05-velocity-loss-thresholds",
+      "title": "Velocity loss thresholds",
+      "summary": "Older research pointer (2026-06-05), not re-checked: Higher velocity loss usually entails more repetitions and acute fatigue, so comparisons can confound fatigue threshold with accumulated work.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "velocity",
+        "loss",
+        "thresholds"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-05",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-06-exercise-snacks",
+      "title": "Exercise snacks",
+      "summary": "Older research pointer (2026-06-06), not re-checked: Exercise-snack reviews report improved aerobic fitness, particularly in physically inactive adults.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "exercise",
+        "snacks"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-06",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-07-advanced-training-methods",
+      "title": "Advanced training methods",
+      "summary": "Older research pointer (2026-06-07), not re-checked: The imported advanced-method reviews do not show a clear aggregate hypertrophy advantage over traditional sets.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "advanced",
+        "methods"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-07",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-08-minimal-dose-resistance-training",
+      "title": "Minimal dose resistance training",
+      "summary": "Older research pointer (2026-06-08), not re-checked: The cited network meta-analysis reports benefits from many resistance-training prescriptions compared with no exercise.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "minimal",
+        "dose",
+        "resistance"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-08",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-09-weekly-hypertrophy-focus-periodization",
+      "title": "Weekly hypertrophy focus periodization",
+      "summary": "Older research pointer (2026-06-09), not re-checked: Volume-matched comparisons do not establish a special hypertrophy benefit from periodization itself.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "weekly",
+        "hypertrophy",
+        "focus",
+        "periodization"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-09",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-10-autoregulated-load-progression",
+      "title": "Autoregulated load progression",
+      "summary": "Older research pointer (2026-06-10), not re-checked: Autoregulated and percentage-based loading produced similar overall strength results in one cited synthesis, while a later network analysis ranked some autoregulated approaches more favorably.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "autoregulated",
+        "load",
+        "progression"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-10",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-11-acsm-resistance-training-position-stand",
+      "title": "ACSM resistance training position stand",
+      "summary": "Older research pointer (2026-06-11), not re-checked: The imported ACSM overview describes broad benefits from progressive resistance training and goal-specific refinements.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "acsm",
+        "resistance",
+        "position",
+        "stand"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-11",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-12-cluster-sets-and-advanced-methods",
+      "title": "Cluster sets and advanced methods",
+      "summary": "Older research pointer (2026-06-12), not re-checked: Cluster-set evidence suggests broadly comparable chronic adaptations with possible reductions in within-session fatigue.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "cluster",
+        "sets",
+        "advanced",
+        "methods"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-12",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-13-low-volume-hiit",
+      "title": "Low volume HIIT",
+      "summary": "Older research pointer (2026-06-13), not re-checked: The low-volume interval review reports fitness improvements in non-athlete adults with brief sessions.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "low",
+        "volume",
+        "hiit"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-13",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-14-zone-2-intensity-prescription",
+      "title": "Zone 2 intensity prescription",
+      "summary": "Older research pointer (2026-06-14), not re-checked: The imported expert viewpoint defines a low-intensity zone using physiological thresholds rather than a universal heart-rate percentage.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "zone",
+        "intensity",
+        "prescription"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-14",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-15-sleep-deprivation-training-performance",
+      "title": "Sleep deprivation training performance",
+      "summary": "Older research pointer (2026-06-15), not re-checked: The imported sleep-loss synthesis reports impaired performance across several domains and higher perceived effort.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "sleep",
+        "deprivation",
+        "performance"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-15",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-16-scapular-control-calisthenics-prep",
+      "title": "Scapular control calisthenics prep",
+      "summary": "Older research pointer (2026-06-16), not re-checked: Shoulder-therapy trials and scapular muscle-activation studies concern different populations and outcomes.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "scapular",
+        "control",
+        "calisthenics",
+        "prep"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-16",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-17-drop-sets-time-efficient-hypertrophy",
+      "title": "Drop sets time efficient hypertrophy",
+      "summary": "Older research pointer (2026-06-17), not re-checked: Small drop-set syntheses report similar average growth to conventional sets with time savings in some protocols.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "drop",
+        "sets",
+        "time",
+        "efficient",
+        "hypertrophy"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-17",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-18-rest-pause-advanced-methods",
+      "title": "Rest-pause advanced methods",
+      "summary": "Older research pointer (2026-06-18), not re-checked: The cited advanced-method review reports a possible rest-pause growth signal within otherwise uncertain aggregate hypertrophy comparisons.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "rest",
+        "pause",
+        "advanced",
+        "methods"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-18",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-19-static-stretching-hypertrophy-rom",
+      "title": "Static stretching hypertrophy ROM",
+      "summary": "Older research pointer (2026-06-19), not re-checked: Static-stretching reviews report reliable flexibility effects and smaller, less certain muscle-size effects, often under unusually large stretching doses.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "static",
+        "stretching",
+        "hypertrophy",
+        "rom"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-19",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-20-exercise-order-prioritization",
+      "title": "Exercise order prioritization",
+      "summary": "Older research pointer (2026-06-20), not re-checked: The exercise-order meta-analysis reports greater strength gains in movements trained earlier.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "exercise",
+        "order",
+        "prioritization"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-20",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-21-sprint-interval-training-bp-vo2",
+      "title": "Sprint interval training BP VO2",
+      "summary": "Older research pointer (2026-06-21), not re-checked: A small cycling-based sprint-interval comparison reports improvements in aerobic fitness and some blood-pressure outcomes with both interval and continuous training.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "sprint",
+        "interval",
+        "bp",
+        "vo2"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-21",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-22-bracing-valsalva-resistance-training",
+      "title": "Bracing valsalva resistance training",
+      "summary": "Older research pointer (2026-06-22), not re-checked: The cited reviews describe pressure and trunk-stability effects of bracing and breath holding.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "bracing",
+        "valsalva",
+        "resistance"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-22",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-23-cold-water-immersion-hypertrophy",
+      "title": "Cold water immersion hypertrophy",
+      "summary": "Older research pointer (2026-06-23), not re-checked: The imported cold-water syntheses suggest that repeated immersion soon after lifting may attenuate growth or strength adaptation.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "cold",
+        "water",
+        "immersion",
+        "hypertrophy"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-23",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-24-heat-resistance-training",
+      "title": "Heat resistance training",
+      "summary": "Older research pointer (2026-06-24), not re-checked: The heat review combines plausible mechanisms with limited direct training evidence.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "heat",
+        "resistance"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-24",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-25-concurrent-training-modality",
+      "title": "Concurrent training modality",
+      "summary": "Older research pointer (2026-06-25), not re-checked: Concurrent-training modality comparisons are limited by small datasets and heterogeneity.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "concurrent",
+        "modality"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-25",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-26-lifting-straps-grip-limited-pulling",
+      "title": "Lifting straps grip limited pulling",
+      "summary": "Older research pointer (2026-06-26), not re-checked: The straps literature described here is mainly exploratory or acute.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "lifting",
+        "straps",
+        "grip",
+        "limited",
+        "pulling"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-26",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-27-myo-reps-time-efficient-hypertrophy",
+      "title": "Myo-reps time efficient hypertrophy",
+      "summary": "Older research pointer (2026-06-27), not re-checked: The imported short myo-reps trial reports similar measured adaptations in less training time.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "myo",
+        "reps",
+        "time",
+        "efficient",
+        "hypertrophy"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-27",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-28-attentional-focus-mind-muscle",
+      "title": "Attentional focus mind-muscle",
+      "summary": "Older research pointer (2026-06-28), not re-checked: Attentional-focus studies suggest that external cues can aid immediate force output, while direct growth evidence is sparse and muscle-specific.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "attentional",
+        "focus",
+        "mind",
+        "muscle"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-28",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-29-foam-rolling-warmup-recovery",
+      "title": "Foam rolling warmup recovery",
+      "summary": "Older research pointer (2026-06-29), not re-checked: Foam-rolling research describes possible short-term mobility or perceived-recovery benefits without a clear special performance advantage over other warm-ups.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "foam",
+        "rolling",
+        "warmup",
+        "recovery"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-29",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-06-30-wrist-loading-calisthenics-prep",
+      "title": "Wrist loading calisthenics prep",
+      "summary": "Older research pointer (2026-06-30), not re-checked: The cited wrist-loading evidence comes largely from young gymnasts and overuse-injury literature.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "wrist",
+        "loading",
+        "calisthenics",
+        "prep"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-06-30",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-07-01-technique-hypertrophy-priorities",
+      "title": "Technique hypertrophy priorities",
+      "summary": "Older research pointer (2026-07-01), not re-checked: A narrative technique review discusses controlled movement, range, and exercise-specific flexibility, while a separate synthesis addresses broader training prescriptions.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "technique",
+        "hypertrophy",
+        "priorities"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-07-01",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-07-02-feedback-supervision-resistance-training",
+      "title": "Feedback supervision resistance training",
+      "summary": "Older research pointer (2026-07-02), not re-checked: Feedback and supervision studies report acute performance and some longer-term strength benefits.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "feedback",
+        "supervision",
+        "resistance"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-07-02",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-07-03-inter-set-static-stretching",
+      "title": "Inter-set static stretching",
+      "summary": "Older research pointer (2026-07-03), not re-checked: Inter-set stretching has mechanistic appeal but limited comparative evidence.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "inter",
+        "set",
+        "static",
+        "stretching"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-07-03",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-07-04-flywheel-resistance-training",
+      "title": "Flywheel resistance training",
+      "summary": "Older research pointer (2026-07-04), not re-checked: Flywheel reviews support investigation of eccentric-loading and power outcomes, with uncertain superiority for maximal strength or hypertrophy.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "flywheel",
+        "resistance"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-07-04",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-07-05-single-vs-multiple-sets",
+      "title": "Single vs. multiple sets",
+      "summary": "Older research pointer (2026-07-05), not re-checked: The imported syntheses favor multiple sets on average for hypertrophy while also reporting benefits from lower-dose prescriptions.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "single",
+        "multiple",
+        "sets"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-07-05",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-07-06-exercise-selection-variation",
+      "title": "Exercise selection variation",
+      "summary": "Older research pointer (2026-07-06), not re-checked: Exercise-selection reviews distinguish regional targeting, whole-muscle growth, and movement-specific strength.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "exercise",
+        "selection",
+        "variation"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-07-06",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-07-07-resistance-training-prescription-variables",
+      "title": "Resistance training prescription variables",
+      "summary": "Older research pointer (2026-07-07), not re-checked: The cited network meta-analysis compares combinations of loading, set number, and frequency.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "resistance",
+        "prescription",
+        "variables"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-07-07",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-07-08-repetition-tempo-hypertrophy-update",
+      "title": "Repetition tempo hypertrophy update",
+      "summary": "Older research pointer (2026-07-08), not re-checked: The newer tempo synthesis reports a small, imprecise direct difference between faster and slower repetitions.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "repetition",
+        "tempo",
+        "hypertrophy"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-07-08",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-07-09-proximity-to-failure-dose-response-update",
+      "title": "Proximity to failure dose response update",
+      "summary": "Older research pointer (2026-07-09), not re-checked: The updated failure note distinguishes estimated-proximity associations from direct failure-versus-nonfailure comparisons.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "proximity",
+        "failure",
+        "dose",
+        "response"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-07-09",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-07-10-rom-long-length-partials-update",
+      "title": "ROM long-length partials update",
+      "summary": "Older research pointer (2026-07-10), not re-checked: The imported range reviews favor examining the muscle lengths trained and the strength range tested.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "rom",
+        "long",
+        "length",
+        "partials"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-07-10",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-07-11-velocity-loss-thresholds-performance",
+      "title": "Velocity loss thresholds performance",
+      "summary": "Older research pointer (2026-07-11), not re-checked: Lower velocity-loss thresholds were associated with better velocity or sprint outcomes in the cited lower-body reviews.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "velocity",
+        "loss",
+        "thresholds",
+        "performance"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-07-11",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-07-12-resistance-training-blood-pressure",
+      "title": "Resistance training blood pressure",
+      "summary": "Older research pointer (2026-07-12), not re-checked: The imported blood-pressure reviews report average reductions from regular resistance training, mainly in hypertensive or clinical populations.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "resistance",
+        "blood",
+        "pressure"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-07-12",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-07-13-isometric-resistance-training-blood-pressure",
+      "title": "Isometric resistance training blood pressure",
+      "summary": "Older research pointer (2026-07-13), not re-checked: The cited isometric-training synthesis reports lower office blood pressure in adults with hypertension, with less consistent ambulatory results.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "isometric",
+        "resistance",
+        "blood",
+        "pressure"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-07-13",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-07-14-advanced-training-methods-hypertrophy",
+      "title": "Advanced training methods hypertrophy",
+      "summary": "Older research pointer (2026-07-14), not re-checked: The advanced-method update again reports uncertain aggregate hypertrophy superiority despite more favorable strength findings.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "advanced",
+        "methods",
+        "hypertrophy"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-07-14",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-07-15-resistance-training-prescription-hierarchy",
+      "title": "Resistance training prescription hierarchy",
+      "summary": "Older research pointer (2026-07-15), not re-checked: The imported prescription reviews place stronger emphasis on training participation, sets, and goal-specific loading than on fine adjustments.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "resistance",
+        "prescription",
+        "hierarchy"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-07-15",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-07-16-cooling-strategies-resistance-training",
+      "title": "Cooling strategies resistance training",
+      "summary": "Older research pointer (2026-07-16), not re-checked: The palm/sole-cooling synthesis was a preprint and reported uncertain acute performance effects.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "cooling",
+        "strategies",
+        "resistance"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-07-16",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-07-17-carbohydrate-fueling-resistance-training",
+      "title": "Carbohydrate fueling resistance training",
+      "summary": "Older research pointer (2026-07-17), not re-checked: The imported nutrition literature suggests carbohydrate effects on lifting performance depend on prior feeding, depletion, and training volume.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "carbohydrate",
+        "fueling",
+        "resistance"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-07-17",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-07-18-rotator-cuff-shoulder-prep",
+      "title": "Rotator cuff shoulder prep",
+      "summary": "Older research pointer (2026-07-18), not re-checked: Shoulder-therapy reviews suggest some value in tailored progressive exercise, but uncertainty remains about the best formula.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "rotator",
+        "cuff",
+        "shoulder",
+        "prep"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-07-18",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-07-19-progressive-push-up-calisthenics",
+      "title": "Progressive push-up calisthenics",
+      "summary": "Older research pointer (2026-07-19), not re-checked: Small, short push-up studies suggest that adequately progressed bodyweight pressing can produce strength and, in some trials, muscle-size gains.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "progressive",
+        "push",
+        "up",
+        "calisthenics"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-07-19",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-09-12-acsm-resistance-training-position-stand",
+      "title": "ACSM resistance training position stand",
+      "summary": "Older research pointer (2026-09-12), not re-checked: The later ACSM note describes the same broad position-stand framework as earlier entries, with an additional plain-language locator.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "acsm",
+        "resistance",
+        "position",
+        "stand"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-09-12",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-09-14-reduced-dose-maintenance-training",
+      "title": "Reduced dose maintenance training",
+      "summary": "Older research pointer (2026-09-14), not re-checked: The maintenance narrative review suggests that some adaptations can persist with reduced training, while detraining evidence leaves precise timelines uncertain.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "reduced",
+        "dose",
+        "maintenance"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-09-14",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-09-15-mhealth-resistance-training-evidence",
+      "title": "mHealth resistance training evidence",
+      "summary": "Older research pointer (2026-09-15), not re-checked: The mHealth review reports small average fitness benefits versus inactive or usual-care comparators, but very few studies measured participation change.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "mhealth",
+        "resistance",
+        "evidence"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-09-15",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-09-16-early-consistency-long-term-adherence",
+      "title": "Early consistency long-term adherence",
+      "summary": "Older research pointer (2026-09-16), not re-checked: The app-based cohort links early logged consistency with later recorded participation.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "early",
+        "consistency",
+        "long",
+        "term",
+        "adherence"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-09-16",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-09-17-resistance-training-adherence-interventions",
+      "title": "Resistance training adherence interventions",
+      "summary": "Older research pointer (2026-09-17), not re-checked: The imported adherence review describes heterogeneous, generally limited trials and no robust universal solution.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "resistance",
+        "adherence",
+        "interventions"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-09-17",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-09-18-supersets-time-efficiency",
+      "title": "Supersets time efficiency",
+      "summary": "Older research pointer (2026-09-18), not re-checked: This later superset entry revisits the same 2025 review discussed earlier.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "supersets",
+        "time",
+        "efficiency"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-09-18",
+      "source_ids": []
+    },
+    {
+      "id": "research/2026-09-19-low-volume-hiit-dose",
+      "title": "Low volume HIIT dose",
+      "summary": "Older research pointer (2026-09-19), not re-checked: The imported dose-response analysis models large aerobic-fitness benefits at relatively short interval doses, but the exact curve is uncertain and population-averaged.",
+      "kind": "research",
+      "tags": [
+        "older-summary",
+        "low",
+        "volume",
+        "hiit",
+        "dose"
+      ],
+      "version": 1,
+      "reviewed_at": "2026-09-19",
+      "source_ids": []
+    }
+  ]
+}
